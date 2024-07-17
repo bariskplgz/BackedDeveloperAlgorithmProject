@@ -1,0 +1,7 @@
+C:\Users\Baris\source\repos\BackedDeveloperAlgorithmProject\BackedDeveloperAlgorithmProject\bin\Debug\BackedDeveloperAlgorithmProject.exe.config
+C:\Users\Baris\source\repos\BackedDeveloperAlgorithmProject\BackedDeveloperAlgorithmProject\bin\Debug\BackedDeveloperAlgorithmProject.exe
+C:\Users\Baris\source\repos\BackedDeveloperAlgorithmProject\BackedDeveloperAlgorithmProject\bin\Debug\BackedDeveloperAlgorithmProject.pdb
+C:\Users\Baris\source\repos\BackedDeveloperAlgorithmProject\BackedDeveloperAlgorithmProject\obj\Debug\BackedDeveloperAlgorithmProject.csproj.AssemblyReference.cache
+C:\Users\Baris\source\repos\BackedDeveloperAlgorithmProject\BackedDeveloperAlgorithmProject\obj\Debug\BackedDeveloperAlgorithmProject.csproj.CoreCompileInputs.cache
+C:\Users\Baris\source\repos\BackedDeveloperAlgorithmProject\BackedDeveloperAlgorithmProject\obj\Debug\BackedDeveloperAlgorithmProject.exe
+C:\Users\Baris\source\repos\BackedDeveloperAlgorithmProject\BackedDeveloperAlgorithmProject\obj\Debug\BackedDeveloperAlgorithmProject.pdb
